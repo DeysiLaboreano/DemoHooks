@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoHooks", "DemoHooks\DemoHooks.csproj", "{2911DB60-7A67-4888-8670-1D15F8B61EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2911DB60-7A67-4888-8670-1D15F8B61EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2911DB60-7A67-4888-8670-1D15F8B61EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2911DB60-7A67-4888-8670-1D15F8B61EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2911DB60-7A67-4888-8670-1D15F8B61EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E4CA4F5-8A6E-49DA-93C2-8B0F361F2380}
+	EndGlobalSection
+EndGlobal
